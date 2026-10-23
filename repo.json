@@ -1,0 +1,30 @@
+{
+  "SchemaVersion": 2,
+  "Repository": "GTFO-Player-Movement-and-Health",
+  "Modules": [
+    {
+      "Id": "PrisonerMovementCustom",
+      "Assembly": "PreLuna.PrisonerMovementCustom",
+      "Guid": "PreLuna.PrisonerMovementCustom",
+      "Version": "1.0.2",
+      "DependencyGuids": [],
+      "CompileDependencies": [],
+      "Kind": "frozen-migrated",
+      "LegacyGuid": "wanglocal.prisonermovementcustom",
+      "Baseline": "baseline/PrisonerMovementCustom/WangLocal.PrisonerMovementCustom.dll",
+      "BaselineSHA256": "DA97F9B8205BB6A0EABDE1813E50FBD06274E04A9BDE10C7C8D157A84FD43400"
+    },
+    {
+      "Id": "PrisonerHealthCustom",
+      "Assembly": "PreLuna.PrisonerHealthCustom",
+      "Guid": "PreLuna.PrisonerHealthCustom",
+      "Version": "1.0.1",
+      "DependencyGuids": [],
+      "CompileDependencies": [],
+      "Kind": "frozen-migrated",
+      "LegacyGuid": "wanglocal.prisonerhealthcustom",
+      "Baseline": "baseline/PrisonerHealthCustom/WangLocal.PrisonerHealthCustom.dll",
+      "BaselineSHA256": "C4E2742FD089874B0D91057E9B7F1EEB5142E6AE18B09D28483668F096ED4AB0"
+    }
+  ]
+}

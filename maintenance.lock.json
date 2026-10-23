@@ -1,0 +1,51 @@
+{
+  "SchemaVersion": 2,
+  "Repository": "GTFO-Player-Movement-and-Health",
+  "Files": [
+    {
+      "Path": ".gitattributes",
+      "SHA256": "705FD4D6451A31D36B3DF7DE96F83F30AC976C9B4A6D1E51671D8E2F33E2D0DA",
+      "Bytes": 8
+    },
+    {
+      "Path": ".gitignore",
+      "SHA256": "9E6206F653FF3BC2FD319789B5CF5A21B6316588A00BD2C24540A344A9EAE8A0",
+      "Bytes": 228
+    },
+    {
+      "Path": "baseline/PrisonerHealthCustom/WangLocal.PrisonerHealthCustom.dll",
+      "SHA256": "C4E2742FD089874B0D91057E9B7F1EEB5142E6AE18B09D28483668F096ED4AB0",
+      "Bytes": 12800
+    },
+    {
+      "Path": "baseline/PrisonerMovementCustom/WangLocal.PrisonerMovementCustom.dll",
+      "SHA256": "DA97F9B8205BB6A0EABDE1813E50FBD06274E04A9BDE10C7C8D157A84FD43400",
+      "Bytes": 23040
+    },
+    {
+      "Path": "Build.ps1",
+      "SHA256": "14B9203BDAE137534027F7B31AE623CA577EF29EA0AE6E5B7F983D5E28F60FB6",
+      "Bytes": 491
+    },
+    {
+      "Path": "DEVELOPMENT.md",
+      "SHA256": "9866C6CD8A091C5C935489F3FE763715C33A42C5BB23F8EBDFEA20ED24C3C2E6",
+      "Bytes": 2372
+    },
+    {
+      "Path": "NOTICE.md",
+      "SHA256": "9323F1B1F295FCB205495F742D323206EA3B76B9D3F49B073B6B9858DE35FDAF",
+      "Bytes": 517
+    },
+    {
+      "Path": "README.md",
+      "SHA256": "3AE6544E502029DEE31A92C53FB13F8A8E6EEDF7294753E4F648444750B8BB3E",
+      "Bytes": 1066
+    },
+    {
+      "Path": "repo.json",
+      "SHA256": "60AAE02300F6E438E6F229ADA6263346DCE045A29B9A42C93F92872BF725259A",
+      "Bytes": 1101
+    }
+  ]
+}
