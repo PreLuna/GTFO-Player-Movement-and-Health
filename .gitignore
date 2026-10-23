@@ -9,9 +9,12 @@
 .vscode/
 .idea/
 *.dll
-!baseline/
-!baseline/**/
-!baseline/**/*.dll
+!PrisonerMovementCustom/baseline/
+!PrisonerMovementCustom/baseline/**/
+!PrisonerMovementCustom/baseline/WangLocal.PrisonerMovementCustom.dll
+!PrisonerHealthCustom/baseline/
+!PrisonerHealthCustom/baseline/**/
+!PrisonerHealthCustom/baseline/WangLocal.PrisonerHealthCustom.dll
 *.pdb
 *.log
 *.zip

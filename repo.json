@@ -1,5 +1,5 @@
 {
-  "SchemaVersion": 2,
+  "SchemaVersion": 3,
   "Repository": "GTFO-Player-Movement-and-Health",
   "Modules": [
     {
@@ -11,8 +11,11 @@
       "CompileDependencies": [],
       "Kind": "frozen-migrated",
       "LegacyGuid": "wanglocal.prisonermovementcustom",
-      "Baseline": "baseline/PrisonerMovementCustom/WangLocal.PrisonerMovementCustom.dll",
-      "BaselineSHA256": "DA97F9B8205BB6A0EABDE1813E50FBD06274E04A9BDE10C7C8D157A84FD43400"
+      "Baseline": "PrisonerMovementCustom/baseline/WangLocal.PrisonerMovementCustom.dll",
+      "BaselineSHA256": "DA97F9B8205BB6A0EABDE1813E50FBD06274E04A9BDE10C7C8D157A84FD43400",
+      "ModuleRoot": "PrisonerMovementCustom",
+      "Name": "移动、滑铲与体力",
+      "DependencyDetails": []
     },
     {
       "Id": "PrisonerHealthCustom",
@@ -23,8 +26,15 @@
       "CompileDependencies": [],
       "Kind": "frozen-migrated",
       "LegacyGuid": "wanglocal.prisonerhealthcustom",
-      "Baseline": "baseline/PrisonerHealthCustom/WangLocal.PrisonerHealthCustom.dll",
-      "BaselineSHA256": "C4E2742FD089874B0D91057E9B7F1EEB5142E6AE18B09D28483668F096ED4AB0"
+      "Baseline": "PrisonerHealthCustom/baseline/WangLocal.PrisonerHealthCustom.dll",
+      "BaselineSHA256": "C4E2742FD089874B0D91057E9B7F1EEB5142E6AE18B09D28483668F096ED4AB0",
+      "ModuleRoot": "PrisonerHealthCustom",
+      "Name": "生命调整",
+      "DependencyDetails": []
     }
+  ],
+  "InputRoots": [
+    "PrisonerHealthCustom",
+    "PrisonerMovementCustom"
   ]
 }
