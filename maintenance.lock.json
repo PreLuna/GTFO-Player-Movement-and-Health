@@ -18,16 +18,6 @@
       "Bytes": 491
     },
     {
-      "Path": "DEVELOPMENT.md",
-      "SHA256": "3CA2A91DAF91456AA8AD5F6CB82A63A961519DFC29D98F530501D6D9302E0695",
-      "Bytes": 2766
-    },
-    {
-      "Path": "NOTICE.md",
-      "SHA256": "9323F1B1F295FCB205495F742D323206EA3B76B9D3F49B073B6B9858DE35FDAF",
-      "Bytes": 517
-    },
-    {
       "Path": "PrisonerHealthCustom/baseline/WangLocal.PrisonerHealthCustom.dll",
       "SHA256": "C4E2742FD089874B0D91057E9B7F1EEB5142E6AE18B09D28483668F096ED4AB0",
       "Bytes": 12800
@@ -39,8 +29,8 @@
     },
     {
       "Path": "README.md",
-      "SHA256": "A7A937DB8B2330A4D9B61772E6378A6E9EDE247583A8827AB922E32BA5B629FA",
-      "Bytes": 1546
+      "SHA256": "E11902C53215FB8A575A8C0B27D24CC8653DD2094E7C47410FDBE17EAF63DA48",
+      "Bytes": 4449
     },
     {
       "Path": "repo.json",
